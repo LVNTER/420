@@ -1,1 +1,0 @@
-print ("we hate sel")
